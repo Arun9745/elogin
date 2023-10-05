@@ -1,0 +1,29 @@
+.product{
+    margin-top: 50px;
+}
+
+
+
+.ref{
+    padding-left: 0rem !important;
+    width: 9rem !important;
+    position: relative;
+    list-style-type: none;
+}
+.bool{
+    position: relative;
+}
+.boolen{
+     position: absolute; 
+    padding-left: 180px !important;
+    
+}
+.opti{
+    height: 100px;
+    width: 100px;
+}
+.card{
+    height: 250px;
+    width: 100px;
+    border: none;
+}
